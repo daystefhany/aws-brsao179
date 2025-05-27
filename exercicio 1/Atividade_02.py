@@ -4,3 +4,10 @@
 Use as variáveis numero1 = 12 e numero2 = 14. 
 O programa deve calcular a soma e exibir o resultado.
 """
+nome = "Dayane"
+numero1 = 12
+numero2 = 14
+soma = numero1 + numero2
+print(f"{nome} somando {numero1} + {numero2} = {soma}") 
+
+
